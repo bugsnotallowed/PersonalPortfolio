@@ -26,6 +26,11 @@ a:hover{
     background-color:azure;
     color: rgb(3, 3, 3);
 }
+select{
+    display: block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
 div nav ul {
     list-style-type: none;
 }
