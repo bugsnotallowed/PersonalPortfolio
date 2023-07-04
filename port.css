@@ -26,6 +26,11 @@ a:hover{
     background-color:azure;
     color: rgb(3, 3, 3);
 }
+p .socialm{
+    padding: 10px;
+    color: rgb(17, 119, 31);
+    font-family: 'Ubuntu', sans-serif;
+}
 select{
     display: block;
     font-family: 'Ubuntu', sans-serif;
